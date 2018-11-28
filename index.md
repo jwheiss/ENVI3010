@@ -1,6 +1,7 @@
-## Dr. James Heiss
-## ENVI3010 GIS in Earth and Environmental Sciences
-## Spring 2019
+### Dr. James Heiss
+### ENVI3010 GIS in Earth and Environmental Sciences
+### Spring 2019
+
 
 <img src="jwh_photo.jpg" class="inline"/>
 
