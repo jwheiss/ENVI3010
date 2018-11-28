@@ -2,10 +2,8 @@
 
 ![Photo of your professor](jwh_photo.jpg)
 
-
-<a href="lab1/index.html">
-<a href="lab2/index.html">
-<a href="lab3/index.html">
-<a href="lab4/index.html">
-<a href="lab5/index.html">
-  
+[Lab 1](lab1/index.html)
+[Lab 2](lab2/index.html)
+[Lab 3](lab3/index.html)
+[Lab 4](lab4/index.html)
+[Lab 5](lab5/index.html)
