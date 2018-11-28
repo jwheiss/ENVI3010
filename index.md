@@ -2,8 +2,9 @@
 ## ENVI3010 GIS in Earth and Environmental Sciences
 ## Spring 2019
 
+<img src="jwh_photo.jpg" class="inline"/>
 
-(jwh_photo.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
