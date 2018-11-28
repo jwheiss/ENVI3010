@@ -13,6 +13,9 @@
 Use this is as a guide to format your reports!
 https://guides.github.com/features/mastering-markdown/
 
+
+Format examples:
+
 #### Course Objective
 The objective of this course is to provide a theoretical and practical introduction to Geographic Information Systems (GIS). The course entails basic concepts and applications of GIS through examination of topics including geospatial data, data management, spatial reference systems, geodesy, map projections, interpolation, analytic toolboxes, and cartographic design. The ESRI’s ArcGIS will be used extensively during class and for laboratory assignments. The course emphasizes practical application and laboratory exercises and is heavily hands-on. 
 
@@ -20,7 +23,7 @@ The objective of this course is to provide a theoretical and practical introduct
 Bolstad, Paul, 2015, GIS Fundamentals: A First Text on Geographic Information Systems (Fifth Edition), Eider Press, White Bear Lake, MN
 Digital versions are available at XanEdu.
 
-#### Course Objective
+#### Ordered list
 After successful completion of this course you will be able to:
 1. Explain and demonstrate proficiency of major concepts/skills of GIS, spatial data, attribute data, data structures, coordinate systems, data projection, spatial analysis, vector and raster datasets, metadata, and several analytical GIS tools
 1. Navigate within the ArcGIS software environment and perform introductory-level analytical skills such as joining data, creating buffers, digitizing, georeferencing, and conducting geospatial queries, performing raster and terrain analysis 
