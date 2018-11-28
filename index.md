@@ -1,11 +1,34 @@
 ### Dr. James Heiss <br> ENVI3010 <br> GIS in Earth and Environmental Sciences <br> james_heiss@uml.edu
-<br> 
+
 
 ![Photo of your professor](jwh_photo.jpg)
-<br><br>  
+
 
 [Lab 1](lab1/index.html) <br>
 [Lab 2](lab2/index.html) <br>
 [Lab 3](lab3/index.html) <br>
 [Lab 4](lab4/index.html) <br>
 [Lab 5](lab5/index.html) 
+
+Use this is as a guide to format your reports!
+https://guides.github.com/features/mastering-markdown/
+
+#### Course Objective
+The objective of this course is to provide a theoretical and practical introduction to Geographic Information Systems (GIS). The course entails basic concepts and applications of GIS through examination of topics including geospatial data, data management, spatial reference systems, geodesy, map projections, interpolation, analytic toolboxes, and cartographic design. The ESRI’s ArcGIS will be used extensively during class and for laboratory assignments. The course emphasizes practical application and laboratory exercises and is heavily hands-on. 
+
+#### Course Objective
+Bolstad, Paul, 2015, GIS Fundamentals: A First Text on Geographic Information Systems (Fifth Edition), Eider Press, White Bear Lake, MN
+Digital versions are available at XanEdu.
+
+#### Course Objective
+After successful completion of this course you will be able to:
+1. Explain and demonstrate proficiency of major concepts/skills of GIS, spatial data, attribute data, data structures, coordinate systems, data projection, spatial analysis, vector and raster datasets, metadata, and several analytical GIS tools
+1. Navigate within the ArcGIS software environment and perform introductory-level analytical skills such as joining data, creating buffers, digitizing, georeferencing, and conducting geospatial queries, performing raster and terrain analysis 
+1. Distinguish between spatial and attribute data 
+1. Differentiate vector and raster data and how the data type affects storage, display, and analysis
+1. Collect, process, and analyze geospatial data
+1. Discuss the strengths and weaknesses of GIS for spatial analysis
+
+#### Unordered list
+* text1
+* text2
