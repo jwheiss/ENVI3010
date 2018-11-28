@@ -1,19 +1,12 @@
-### Dr. James Heiss
-### ENVI3010 GIS in Earth and Environmental Sciences
-### Spring 2019
+### Dr. James Heiss <br> ENVI3010 <br> GIS in Earth and Environmental Sciences 
 
 
 <img src="jwh_photo.jpg" class="inline"/>
 
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jwheiss/ENVI3010F18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="lab1/index.html">
+<a href="lab2/index.html">
+<a href="lab3/index.html">
+<a href="lab4/index.html">
+<a href="lab5/index.html">
+  
+![GitHub Logo](jwh_photo.jpg)
