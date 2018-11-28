@@ -3,7 +3,7 @@
 ## Spring 2019
 
 
-![Portrait](src)
+(jwh_photo.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
