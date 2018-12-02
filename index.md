@@ -4,11 +4,11 @@
 ![Photo of your professor](1_jwh_photo.jpg)
 
 
-[Lab 1](lab1/index.html) <br>
-[Lab 2](lab2/index.html) <br>
-[Lab 3](lab3/index.html) <br>
-[Lab 4](lab4/index.html) <br>
-[Lab 5](lab5/index.html) 
+[Lab 1](lab1/index.md) <br>
+[Lab 2](lab2/index.md) <br>
+[Lab 3](lab3/index.md) <br>
+[Lab 4](lab4/index.md) <br>
+[Lab 5](lab5/index.md) 
 
 Use this is as a guide to format your reports!
 https://guides.github.com/features/mastering-markdown/
