@@ -5,5 +5,3 @@ Lab 1 images, tables, text, etc. go here.
 Text
 <br><br>
 Text
-<br><br><br>
-Text
