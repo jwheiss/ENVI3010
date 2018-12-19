@@ -1,5 +1,8 @@
-### Dr. James Heiss <br> ENVI3010 <br> GIS in Earth and Environmental Sciences <br> james_heiss@uml.edu
-<br> 
+### Dr. James Heiss
+### ENVI3010
+### GIS in Earth and Environmental Sciences
+### james_heiss@uml.edu
+
 
 ### Lab 1
 
