@@ -8,6 +8,7 @@
 [Ch 3 Tutorial](tutorial3/index.md) <br>
 [Ch 4 Tutorial](tutorial4/index.md) <br>
 [Ch 5 Tutorial](tutorial5/index.md) <br>
+
 [Lab 1](lab1/index.md) <br>
 [Lab 2](lab2/index.md) <br>
 [Lab 3](lab3/index.md) <br>
