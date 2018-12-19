@@ -2,5 +2,5 @@
 <br> 
 
 ### Lab 1
-<br>
+
 Lab 1 images, tables, text, etc. go here
