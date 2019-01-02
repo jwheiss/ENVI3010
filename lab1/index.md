@@ -2,8 +2,9 @@
 ### Lab 1
 Lab 1 images, tables, text, etc. go here.
 <br>
-!(SandTable.png)
-
+![hover-over text](SandTable.png)
+<br>
+**Figure 1.** Exmaple sand table landscape.
 
 <br><br>
-Text
+Paragraph text.
