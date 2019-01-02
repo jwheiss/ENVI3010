@@ -24,9 +24,9 @@ Format examples:
 #### Course Objective
 The objective of this course is to provide a theoretical and practical introduction to Geographic Information Systems (GIS). The course entails basic concepts and applications of GIS through examination of topics including geospatial data, data management, spatial reference systems, geodesy, map projections, interpolation, analytic toolboxes, and cartographic design. The ESRI’s ArcGIS will be used extensively during class and for laboratory assignments. The course emphasizes practical application and laboratory exercises and is heavily hands-on. 
 
-#### Course Objective
-Bolstad, Paul, 2015, GIS Fundamentals: A First Text on Geographic Information Systems (Fifth Edition), Eider Press, White Bear Lake, MN
-Digital versions are available at XanEdu.
+#### Textbook
+Price, Maribeth, 2014, Mastering ArcGIS, 7th Edition.
+You will need a personal flash drive >8gb. All data files for in-class assignments, labs, and tutorials will be stored on this flash drive. No data files, assignments, or lab reports can be stored on lab PCs. 
 
 #### Ordered list
 After successful completion of this course you will be able to:
