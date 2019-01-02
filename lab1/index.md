@@ -3,10 +3,8 @@
 
 #### Purpose
 Lab 1 images, tables, text, etc. go here.
-
 ![hover-over text](SandTable.png)
 **Figure 1.** Example sand table landscape.
-
 More text.
 
 
