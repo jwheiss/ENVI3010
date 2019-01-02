@@ -9,11 +9,18 @@ Lab 1 images, tables, text, etc. go here.
 
 More text.
 
+
 #### Objective
+
+
 
 #### Methods
 
+
+
 #### Data, answers, graphics
+
+
 
 #### Summary and Conclusion
 
