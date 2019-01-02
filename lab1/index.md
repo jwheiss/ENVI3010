@@ -9,17 +9,11 @@ More text.
 
 
 #### Objective
-
-
-
+<br><br>
 #### Methods
-
-
-
+<br><br>
 #### Data, answers, graphics
-
-
-
+<br><br>
 #### Summary and Conclusion
 
 
