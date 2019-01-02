@@ -2,6 +2,8 @@
 ### Lab 1
 Lab 1 images, tables, text, etc. go here.
 <br>
-Text
+!(SandTable.png)
+
+
 <br><br>
 Text
