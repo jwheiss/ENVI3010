@@ -6,16 +6,16 @@ Lab 1 images, tables, text, etc. go here.
 
 ![hover-over text](SandTable.png)
 **Figure 1.** Example sand table landscape.
-<br>
+<br><br>
 More text.
 
 
 #### Objective
-<br><br>
+Text.
 #### Methods
-<br><br>
+Text.
 #### Data, answers, graphics
-<br><br>
+Text.
 #### Summary and Conclusion
 
 
