@@ -2,7 +2,7 @@
 ### Lab 1
 
 #### Purpose
-Lab 1 images, tables, text, etc. go here.
+Lab 1 images, tables, text, etc. go in these subheadings.
 
 ![hover-over text](SandTable.png)
 <br>
@@ -18,5 +18,5 @@ Text.
 #### Data, answers, graphics
 Text.
 #### Summary and Conclusion
-
+Text.
 
